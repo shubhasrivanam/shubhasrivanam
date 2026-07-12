@@ -1,21 +1,25 @@
 # Hi there, I'm Shubhasri! 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Distributed%20Systems-4285F4?style=for-the-badge&logoWidth=0" alt="Focus Area" />
-  <img src="https://img.shields.io/badge/Preferred_Languages-Go%20%7C%20C%2B%2B-34A853?style=for-the-badge&logoWidth=0" alt="Languages" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Backend+Engineer;Distributed+Systems+Enthusiast;Performance+Optimizer" alt="Typing SVG" />
+  </a>
 </p>
 
-I'm a backend and infrastructure engineer who loves tearing apart complex systems to see how they tick, optimizing code for raw performance, and figuring out better ways to move massive amounts of data safely. If it involves distributed consensus, low-latency APIs, or tracking down tail latencies, I'm down to talk about it.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-4285F4?style=for-the-badge&logoWidth=0" alt="Focus Area" />
+  <img src="https://img.shields.io/badge/Preferred_Stack-Go%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20Python-34A853?style=for-the-badge&logoWidth=0" alt="Languages" />
+</p>
 
 ---
 
-## 🧠 Areas of Focus & Exploration
+## 🛠️ The Core Engine (`/dev/interests`)
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ High-Throughput & Performance</h3>
-      <p>Writing highly concurrent, optimized services in <code>Go</code> and <code>C++</code>. Squeezing out every drop of efficiency and eliminating processing overhead.</p>
+      <h3>🚀 High-Throughput & Performance</h3>
+      <p>Writing highly concurrent, optimized services in <code>Go</code>, <code>C++</code>, and <code>Java</code>. Squeezing out every drop of efficiency and eliminating processing overhead.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Distributed Consensus</h3>
@@ -36,51 +40,54 @@ I'm a backend and infrastructure engineer who loves tearing apart complex system
 
 ---
 
-## 🛠️ Technical Toolbox
+## 💻 Technical Toolbox
 
-### 💻 Languages & Frameworks
+### 🛠️ Languages & Architecture
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/go.svg" alt="Go" width="50" height="50"/></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/cplusplus.svg" alt="C++" width="50" height="50"/></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/java.svg" alt="Java" width="50" height="50"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/python.svg" alt="Python" width="50" height="50"/></a>
+  <a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/fastapi.svg" alt="FastAPI" width="50" height="50"/></a>
 </p>
 
-### ☁️ Cloud, Infra & DevOps
+### 🗄️ Data, Warehousing & Streaming
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="40"/></a>
+  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Snowflake-29B6F6?style=for-the-badge&logo=snowflake&logoColor=white" height="40"/></a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="40"/></a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/postgresql.svg" alt="PostgreSQL" width="50" height="50"/></a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/redis.svg" alt="Redis" width="50" height="50"/></a>
 </p>
 
-### 🗄️ Data, Messaging & Observability
+### ☁️ Cloud & Orchestration
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/aws.svg" alt="AWS" width="50" height="50"/></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/googlecloud.svg" alt="GCP" width="50" height="50"/></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/kubernetes.svg" alt="Kubernetes" width="50" height="50"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/docker.svg" alt="Docker" width="50" height="50"/></a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/terraform.svg" alt="Terraform" width="50" height="50"/></a>
+  <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="40"/></a>
 </p>
 
 ---
 
-## 📈 Interactive Activity
+## 📊 Live Metrics Console
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=material-palenight&hide_border=true" alt="Top Langs" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=material-palenight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Langs" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="51%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="80%" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 📡 Ping Me
 
 <p align="left">
   <a href="https://linkedin.com/in/shubhasrivanam" target="_blank">
