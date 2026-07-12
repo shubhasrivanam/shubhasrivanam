@@ -27,8 +27,8 @@
  
  ── Contact ────────────────────────────────────────────────────────────────────────────
  . Grid.Mail: .......................... shubhasri.work@gmail.com
- . Grid.LinkedIn: ...................... [https://linkedin.com/in/shubhasrivanam](https://linkedin.com/in/shubhasrivanam)
- . Grid.Github: ........................ [https://github.com/shubhasrivanam](https://github.com/shubhasrivanam)
+ . Grid.LinkedIn: ...................... https://linkedin.com/in/shubhasrivanam
+ . Grid.Github: ........................ https://github.com/shubhasrivanam
  ───────────────────────────────────────────────────────────────────────────────────────
 
  🔍 PRESENTLY_LOOKING_INTO
