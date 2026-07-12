@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=shubhasri@infrastructure:~$;+cat+sys_info.log;+loading+data_foundations..." alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=4285F4&center=true&vCenter=true&width=600&lines=shubhasri@infrastructure:~$;+gcloud+auth+login;+loading+data_foundations...;+status:+scaling_storage_layers" alt="Terminal Typing" />
   </a>
 </p>
 
 ```yaml
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  SYSTEM INFO  |  shubhasri@infrastructure  |  uptime: 3 years professional execution  │
+│  📊 SYSTEM MONITOR |  shubhasri@infrastructure  |  env: production_scale               │
 └────────────────────────────────────────────────────────────────────────────────────────┘
  ── Profile ────────────────────────────────────────────────────────────────────────────
  . Subject: ............................ Shubhasri Vanam
