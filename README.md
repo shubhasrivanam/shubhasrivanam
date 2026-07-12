@@ -2,36 +2,36 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=shubhasri@infrastructure:~$;+cat+sys_info.log;+loading+data_foundations..." alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=shubhasri@google-cloud:~$;+gcloud+auth+login;+initializing+data_foundations..." alt="Terminal Typing" />
   </a>
 </p>
 
-```yaml
+```web-console
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  SYSTEM INFO  |  shubhasri@infrastructure  |  uptime: 3 years professional execution  │
+│  📊 SYSTEM_INFO  |  shubhasri@infrastructure  |  uptime: 3 years professional execution│
 └────────────────────────────────────────────────────────────────────────────────────────┘
- ── Profile ────────────────────────────────────────────────────────────────────────────
- . Subject: ............................ Shubhasri Vanam
- . Role: ............................... Backend & Infrastructure Engineer
- . Focus: .............................. Data Foundations for AI/ML • Cloud Ecosystems
- . Location: ........................... San Jose, California
- . Status: ............................. Scaling • Architecting • Optimizing
+ 🔷 PROFILE_CONFIG
+ ├── Subject: ............................ Shubhasri Vanam
+ ├── Role: ............................... Backend & Infrastructure Engineer
+ ├── Focus: .............................. Data Foundations for AI/ML • Cloud Ecosystems
+ ├── Location: ........................... San Jose, California
+ ├── Status: ............................. Scaling • Architecting • Optimizing
  
- ── Tech.Stack ─────────────────────────────────────────────────────────────────────────
- . Core.Lang: .......................... Java, Go, C++, Python
- . Core.Cloud: ......................... AWS, GCP, Kubernetes, Docker, Terraform
- . Data.Eng: ........................... Databricks, Snowflake, Apache Spark
- . Messaging: .......................... Apache Kafka, RabbitMQ, AWS SQS/SNS
- . Networking: ......................... gRPC, Protocol Buffers, REST APIs
- . Observability: ...................... Datadog, Prometheus, Grafana, OpenTelemetry
+ 🟢 CORE_TOOLCHAIN
+ ├── Core.Lang: .......................... Java, Go, C++, Python
+ ├── Core.Cloud: ......................... AWS, GCP, Kubernetes, Docker, Terraform
+ ├── Data.Eng: ........................... Databricks, Snowflake, Apache Spark
+ ├── Messaging: .......................... Apache Kafka, RabbitMQ, AWS SQS/SNS
+ ├── Networking: ......................... gRPC, Protocol Buffers, REST APIs
+ └── Observability: ...................... Datadog, Prometheus, Grafana, OpenTelemetry
  
- ── Contact ────────────────────────────────────────────────────────────────────────────
- . Grid.Mail: .......................... shubhasri.work@gmail.com
- . Grid.LinkedIn: ...................... https://linkedin.com/in/shubhasrivanam
- . Grid.Github: ........................ https://github.com/shubhasrivanam
+ 🟡 CONTACT_PROPS
+ ├── Mail: ............................... shubhasri.work@gmail.com
+ ├── LinkedIn: ........................... https://linkedin.com/in/shubhasrivanam
+ └── Github: ............................. https://github.com/shubhasrivanam
  ───────────────────────────────────────────────────────────────────────────────────────
 
- 🔍 PRESENTLY_LOOKING_INTO
- └── "I am presently looking into how data storage forms the bedrock of AI/ML. I research and 
+ 🔴 PRESENTLY_LOOKING_INTO
+ └── "I am obsessed with how data storage forms the bedrock of AI/ML. I research and 
       experiment with optimizing data layout, file formats, and high-throughput ingestion 
       pipelines to feed heavy-compute models efficiently without missing a beat."
