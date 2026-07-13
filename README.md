@@ -8,7 +8,7 @@
 
 ```yaml
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  SYSTEM INFO  |  shubhasri@infrastructure  |  uptime: 3 years professional execution  │
+│  SYSTEM INFO  |  shubhasri@infrastructure  |  uptime: 2+ years professional execution  │
 └────────────────────────────────────────────────────────────────────────────────────────┘
  ── Profile ────────────────────────────────────────────────────────────────────────────
  . Subject: ............................ Shubhasri Vanam
