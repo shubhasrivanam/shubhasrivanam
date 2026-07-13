@@ -2,18 +2,18 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=4285F4&center=true&vCenter=true&width=600&lines=shubhasri@infrastructure:~$;+gcloud+auth+login;+loading+data_foundations...;+status:+scaling_storage_layers" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=4285F4&center=true&vCenter=true&width=600&lines=shubhasri@infrastructure:~$;+kubectl+get+pods+-n+prod;+optimizing+distributed_orchestration...;+status:+petabyte_scale_achieved" alt="Terminal Typing" />
   </a>
 </p>
 
 ```yaml
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  📊 SYSTEM MONITOR |  shubhasri@infrastructure  |  env: production_scale               │
+│  📊 SYSTEM MONITOR |  shubhasri@infrastructure  |  env: production_scale                │
 └────────────────────────────────────────────────────────────────────────────────────────┘
  ── Profile ────────────────────────────────────────────────────────────────────────────
  . Subject: ............................ Shubhasri Vanam
  . Role: ............................... Backend & Infrastructure Engineer
- . Focus: .............................. Data Foundations for AI/ML • Cloud Ecosystems
+ . Focus: .............................. Distributed Systems • Infrastructure Automation
  . Location: ........................... San Jose, California
  . Status: ............................. Scaling • Architecting • Optimizing
  
@@ -32,6 +32,4 @@
  ───────────────────────────────────────────────────────────────────────────────────────
 
  🔍 PRESENTLY_LOOKING_INTO
- └── "I am presently looking into how data storage forms the bedrock of AI/ML. I research and 
-      experiment with optimizing data layout, file formats, and high-throughput ingestion 
-      pipelines to feed heavy-compute models efficiently without missing a beat."
+ └── "I am presently looking into how data storage forms the bedrock of AI/ML. I research and experiment with optimizing data layout, file formats, and high-throughput ingestion pipelines to feed heavy-compute models efficiently without missing a beat."
