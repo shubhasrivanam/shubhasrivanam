@@ -32,6 +32,6 @@
  ───────────────────────────────────────────────────────────────────────────────────────
 
  🔍 PRESENTLY_LOOKING_INTO
- └── "I am presently looking into how data storage forms the bedrock of AI/ML. I research and 
-      experiment with optimizing data layout, file formats, and high-throughput ingestion 
+ └── "I am presently looking into how data storage forms the bedrock of AI/ML. I'm researching and 
+      experimenting with optimizing data layout, file formats, and high-throughput ingestion 
       pipelines to feed heavy-compute models efficiently without missing a beat."
