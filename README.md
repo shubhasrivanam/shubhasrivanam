@@ -13,7 +13,7 @@
  ── Profile ────────────────────────────────────────────────────────────────────────────
  . Subject: ............................ Shubhasri Vanam
  . Role: ............................... Backend & Infrastructure Engineer
- . Focus: .............................. Distributed Systems • Infrastructure Automation • Cloud Ecosystems
+ . Focus: .............................. Distributed Systems • Infrastructure Automation • Cloud
  . Location: ........................... San Jose, California
  . Status: ............................. Scaling • Architecting • Optimizing
  
