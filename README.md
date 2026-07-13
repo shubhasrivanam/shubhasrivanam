@@ -2,18 +2,18 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=4285F4&center=true&vCenter=true&width=600&lines=shubhasri@infrastructure:~$;+kubectl+get+pods+-n+prod;+optimizing+distributed_orchestration...;+status:+petabyte_scale_achieved" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=shubhasri@infrastructure:~$;+cat+sys_info.log;+loading+data_foundations..." alt="Terminal Typing" />
   </a>
 </p>
 
 ```yaml
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  📊 SYSTEM MONITOR |  shubhasri@infrastructure  |  env: production_scale                │
+│  SYSTEM INFO  |  shubhasri@infrastructure  |  uptime: 3 years professional execution  │
 └────────────────────────────────────────────────────────────────────────────────────────┘
  ── Profile ────────────────────────────────────────────────────────────────────────────
  . Subject: ............................ Shubhasri Vanam
  . Role: ............................... Backend & Infrastructure Engineer
- . Focus: .............................. Distributed Systems • Infrastructure Automation
+ . Focus: .............................. Distributed Systems • Infrastructure Automation • Cloud Ecosystems
  . Location: ........................... San Jose, California
  . Status: ............................. Scaling • Architecting • Optimizing
  
@@ -32,4 +32,6 @@
  ───────────────────────────────────────────────────────────────────────────────────────
 
  🔍 PRESENTLY_LOOKING_INTO
- └── "I am presently looking into how data storage forms the bedrock of AI/ML. I research and experiment with optimizing data layout, file formats, and high-throughput ingestion pipelines to feed heavy-compute models efficiently without missing a beat."
+ └── "I am presently looking into how data storage forms the bedrock of AI/ML. I research and 
+      experiment with optimizing data layout, file formats, and high-throughput ingestion 
+      pipelines to feed heavy-compute models efficiently without missing a beat."
